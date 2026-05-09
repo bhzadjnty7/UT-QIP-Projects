@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Quantum%20Information%20Processing%20Projects&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
 # UT-QIP-Projects
 Quantum Information Processing course projects (Fall 1403) at the University of Tehran under the supervision of Prof. Ahmad Khonsari. Implementation of quantum circuits, Bloch sphere visualization, measurement techniques, and Grover's search algorithm for solving a 2×2 binary Sudoku puzzle using Qiskit.
 
