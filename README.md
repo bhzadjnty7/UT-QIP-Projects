@@ -295,6 +295,16 @@ https://github.com/sohamch08/Qiskit-Quantum-Algo (reference for the 2×2 Sudoku 
 * Open‑Source Community for the tools and libraries that support quantum computing education.
 
 ---
+
+## Author
+
+**Behzad Jannati**
+M.Sc. Student – Computer Architecture
+University of Tehran
+
+GitHub: [https://github.com/bhzadjnty7](https://github.com/bhzadjnty7)
+
+Linkedin: [www.linkedin.com/in/behzadjannati](www.linkedin.com/in/behzadjannati)
 ## License
 This project is licensed under the **MIT License**. You are free to use, modify, and distribute this code for educational and research purposes. See the LICENSE file for more details.
 
